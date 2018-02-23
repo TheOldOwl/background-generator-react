@@ -1,0 +1,17 @@
+.navbar {
+	text-transform: uppercase;
+	letter-spacing: .2em;
+}
+
+nav {
+	z-index: 100;
+	box-shadow: 4px 1px 8px -1px rgb(0,0,0);
+}
+
+
+#span {
+	color: rgba(0,0,0, .5);
+	font-family: 'Raleway', sans-serif;
+	font-size: 2em;
+	line-height: 50px;
+}

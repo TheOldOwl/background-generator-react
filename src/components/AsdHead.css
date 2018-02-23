@@ -1,0 +1,28 @@
+.flex-column {
+	display: flex;
+	padding-left: 0;
+	justify-content: center;
+	text-align: center;
+}
+
+.flex-row {
+	display: flex;
+	justify-content: space-around;
+	margin: 15px 0;
+}
+
+.nav li {
+	font-family: 'Raleway', sans-serif;
+	text-transform: uppercase;
+	padding: 5px 50px;
+	letter-spacing: 0.1em;
+	background-color: #EDEDED;
+	color: #444444;
+	transition: 400ms ease-in-out;
+	cursor: pointer;
+}
+
+.nav .active {
+	background-color: #444444;
+	color: #EDEDED;
+}

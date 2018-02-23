@@ -1,0 +1,41 @@
+#gradient {
+	
+}
+
+.col-9 {
+	height: 100%;
+}
+
+.flex-space-around {
+	margin: 0;
+	padding: 0;
+	align-items: center;
+	justify-content: space-between;
+	height: 100%;
+	flex-direction: column;
+}
+
+.flex-space-around input {
+	margin: 10px 10px;
+}
+
+.input {
+	flex-direction: row;
+	text-align: center;
+}
+
+.input h3 {
+	margin-top: 20px;
+	text-transform: uppercase;
+	color: rgba(0,0,0, .5);
+	font-family: 'Raleway', sans-serif;
+	letter-spacing: 0.1em;
+	font-size: 1.2em;
+}
+
+h4 {
+	margin-bottom: 30px;
+	font: 900 1em 'Raleway', sans-serif;
+    color: rgba(0,0,0,.5);
+    letter-spacing: 0.01em;
+}
